@@ -1,0 +1,5 @@
+1.Getting started with Access Point (AP) Mode for the Intel Edison board:"configure_edison --enableOneTimeSetup".
+  SSID: Your device name.
+  KEY: Your device passward.
+
+2.Put the bin file into Edison and set it running automatic when bootup.

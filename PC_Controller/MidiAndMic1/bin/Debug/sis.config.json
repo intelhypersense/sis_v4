@@ -1,0 +1,101 @@
+{
+	"presets": [
+		{
+		  "Title": "Sound in Silence",
+		  "MidiFile": "SiS 2 - Iteration 2.mid",
+		  "Mp3File": "SiS 2 - Iteration 2.mp3",
+		  "Mp3Offset": "0",
+		  "PlayMidi": false,
+		  "Track1": {
+		    "Channel": 1,
+		    "UseInstrument": false,
+		    "Instrument": null,
+		    "Threshold": null
+		  },
+		  "Track2": {
+		    "Channel": 1,
+		    "UseInstrument": false,
+		    "Instrument": null,
+		    "Threshold": null
+		  },
+		  "Track3": {
+		    "Channel": 3,
+		    "UseInstrument": false,
+		    "Instrument": null,
+		    "Threshold": 64
+		  },
+		  "Track4": {
+		    "Channel": 2,
+		    "UseInstrument": false,
+		    "Instrument": null,
+		    "Threshold": 64
+		  }
+		},
+		{
+			"Title": "Lush Life",
+			"MidiFile": "lushlife.mid",
+			"Mp3File": "lushlife.mp3",
+			"Mp3Offset": "0",
+			"PlayMidi": false,
+			"Track1": {
+				"Channel": 3,
+				"UseInstrument": false,
+				"Instrument": null,
+				"Threshold": null
+			},
+			"Track2": {
+				"Channel": 3,
+				"UseInstrument": false,
+				"Instrument": null,
+				"Threshold": null
+			},
+			"Track3": {
+				"Channel": 1,
+				"UseInstrument": true,
+				"Instrument": 36,
+				"Threshold": 64
+			},
+			"Track4": {
+				"Channel": 1,
+				"UseInstrument": true,
+				"Instrument": 37,
+				"Threshold": 64
+			}
+		},
+    {
+      "Title": "Paradise",
+      "MidiFile": "paradise.mid",
+      "Mp3File": "paradise.mp3",
+      "Mp3Offset": "0",
+      "PlayMidi": false,
+      "Track1": {
+        "Channel": 3,
+        "UseInstrument": false,
+        "Instrument": null,
+        "Threshold": null
+      },
+      "Track2": {
+        "Channel": 3,
+        "UseInstrument": false,
+        "Instrument": null,
+        "Threshold": null
+      },
+      "Track3": {
+        "Channel": 1,
+        "UseInstrument": true,
+        "Instrument": 36,
+        "Threshold": 64
+      },
+      "Track4": {
+        "Channel": 1,
+        "UseInstrument": true,
+        "Instrument": 37,
+        "Threshold": 64
+      }
+    }
+
+
+
+	]
+	
+}

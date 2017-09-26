@@ -1,0 +1,101 @@
+{
+	"presets": [
+
+		{
+			"Title": "Lush Life",
+			"MidiFile": "lushlife.mid",
+			"Mp3File": "lushlife.mp3",
+			"Mp3Offset": "-200",
+			"PlayMidi": false,
+			"Track1": {
+				"Channel": 3,
+				"UseInstrument": false,
+				"Instrument": null,
+				"Threshold": null
+			},
+			"Track2": {
+				"Channel": 3,
+				"UseInstrument": false,
+				"Instrument": null,
+				"Threshold": null
+			},
+			"Track3": {
+				"Channel": 1,
+				"UseInstrument": true,
+				"Instrument": 37,
+				"Threshold": 127
+			},
+			"Track4": {
+				"Channel": 1,
+				"UseInstrument": true,
+				"Instrument": 38,
+				"Threshold": 127
+			}
+		},
+    {
+      "Title": "Paradise",
+      "MidiFile": "paradise.mid",
+      "Mp3File": null,
+      "Mp3Offset": null,
+      "PlayMidi": false,
+      "Track1": {
+        "Channel": 3,
+        "UseInstrument": false,
+        "Instrument": null,
+        "Threshold": null
+      },
+      "Track2": {
+        "Channel": 3,
+        "UseInstrument": false,
+        "Instrument": null,
+        "Threshold": null
+      },
+      "Track3": {
+        "Channel": 1,
+        "UseInstrument": true,
+        "Instrument": 37,
+        "Threshold": 88
+      },
+      "Track4": {
+        "Channel": 1,
+        "UseInstrument": true,
+        "Instrument": 38,
+        "Threshold": 88
+      }
+    },
+    {
+			"Title": "dark-horse",
+			"MidiFile": "dark-horse.mid",
+			"Mp3File": "dark-horse.mp3",
+			"Mp3Offset": "-100",
+			"PlayMidi": true,
+			"Track1": {
+				"Channel": 3,
+				"UseInstrument": false,
+				"Instrument": null,
+				"Threshold": null
+			},
+			"Track2": {
+				"Channel": 10,
+				"UseInstrument": false,
+				"Instrument": null,
+				"Threshold": null
+			},
+			"Track3": {
+				"Channel": 10,
+				"UseInstrument": true,
+				"Instrument": 40,
+				"Threshold": 22
+			},
+			"Track4": {
+				"Channel": 10,
+				"UseInstrument": true,
+				"Instrument": 35,
+				"Threshold": 22
+			}
+		}
+
+
+	]
+	
+}
